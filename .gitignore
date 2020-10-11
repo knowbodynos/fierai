@@ -1,5 +1,6 @@
-.DS_Store
-.ipynb_checkpoints/
-__pycache__/
+**/.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints/
+notebooks/local/
 data/
-test.ipynb
+bkp/
