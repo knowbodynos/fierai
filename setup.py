@@ -10,6 +10,7 @@ setup(
     name='fierai',
     version=version,
     packages=['fierai'],
+    exclude_package_data={'data': 'data/'},
     url='https://github.com/knowbodynos/fierai',
     license='MIT',
     author='Ross Altman',
