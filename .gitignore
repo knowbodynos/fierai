@@ -5,3 +5,8 @@
 notebooks/local/
 data/
 bkp/
+demo/data/
+demo/test_data/
+demo/.env
+demo/runs/
+demo/output/
